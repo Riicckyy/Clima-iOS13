@@ -1,5 +1,7 @@
 #  Clima
 
+![image](https://user-images.githubusercontent.com/107418244/199591690-196db675-9c0b-4350-a5b0-d54add4db36f.png)
+
 ## Our Goal
 
 It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
